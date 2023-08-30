@@ -1,0 +1,57 @@
+Progress: resolved 1, reused 0, downloaded 0, added 0
+ WARN  deprecated rollup-plugin-terser@7.0.2: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-terser
+ WARN  GET https://registry.npmjs.org/acorn error (ECONNRESET). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/acorn-walk error (ECONNRESET). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/@types%2Fnode error (ECONNRESET). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/@types%2Fescodegen error (ECONNRESET). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/html-tags error (ECONNRESET). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/acorn-jsx error (ECONNRESET). Will retry in 10 seconds. 2 retries left.
+Progress: resolved 634, reused 634, downloaded 0, added 0
+ WARN  GET https://registry.npmjs.org/@types%2Festree error (ECONNRESET). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/@storybook%2Fglobal error (ECONNRESET). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/escodegen error (ECONNRESET). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/ts-dedent error (ECONNRESET). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/lodash error (ECONNRESET). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/prop-types error (ECONNRESET). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/type-fest error (ECONNRESET). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/util-deprecate error (ECONNRESET). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/react-element-to-jsx-string error (ECONNRESET). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/acorn error (ECONNRESET). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/@types%2Fnode error (ECONNRESET). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/@types%2Festree error (ECONNRESET). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/html-tags error (ECONNRESET). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/@storybook%2Fglobal error (ECONNRESET). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/escodegen error (ECONNRESET). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/acorn-walk error (ECONNRESET). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/ts-dedent error (ECONNRESET). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/@types%2Fescodegen error (ECONNRESET). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/acorn-jsx error (ECONNRESET). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/util-deprecate error (ECONNRESET). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/react-element-to-jsx-string error (ECONNRESET). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/prop-types error (ECONNRESET). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/lodash error (ECONNRESET). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/type-fest error (ECONNRESET). Will retry in 1 minute. 1 retries left.
+Progress: resolved 635, reused 634, downloaded 0, added 0
+Progress: resolved 636, reused 636, downloaded 0, added 0
+Progress: resolved 647, reused 646, downloaded 0, added 0
+Progress: resolved 661, reused 661, downloaded 0, added 0
+Progress: resolved 665, reused 665, downloaded 0, added 0
+Progress: resolved 673, reused 671, downloaded 0, added 0
+Progress: resolved 685, reused 684, downloaded 0, added 0
+Progress: resolved 708, reused 707, downloaded 0, added 0
+Progress: resolved 720, reused 719, downloaded 0, added 0
+Progress: resolved 730, reused 729, downloaded 0, added 0
+Progress: resolved 747, reused 746, downloaded 0, added 0
+Progress: resolved 782, reused 781, downloaded 0, added 0
+Progress: resolved 827, reused 826, downloaded 0, added 0
+Progress: resolved 882, reused 872, downloaded 0, added 0
+Progress: resolved 940, reused 908, downloaded 0, added 0
+Progress: resolved 1024, reused 993, downloaded 0, added 0
+Progress: resolved 1066, reused 1035, downloaded 0, added 0
+Progress: resolved 1132, reused 1100, downloaded 0, added 0
+Progress: resolved 1209, reused 1178, downloaded 0, added 0
+Progress: resolved 1227, reused 1196, downloaded 0, added 0
+Packages: +576
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Progress: resolved 1228, reused 1197, downloaded 0, added 0
+ ERR_PNPM_LINKING_FAILED  Error: EPERM: operation not permitted, rename 'E:\isui\copy\node_modules\.pnpm\core-js-pure@3.32.1\node_modules\core-js-pure_tmp_10172' -> 'E:\isui\copy\node_modules\.pnpm\core-js-pure@3.32.1\node_modules\core-js-pure'
